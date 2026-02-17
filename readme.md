@@ -9,6 +9,7 @@ Real-time helmet detection system built using YOLOv8 to improve industrial safet
 Industrial workplaces require strict helmet compliance to reduce workplace injuries. This project builds an automated computer vision system that detects whether a person is wearing a helmet in real-time using deep learning.
 
 🚀 Features
+
 &nbsp; 1. End-to-end computer vision pipeline
 
 &nbsp; 2. YOLOv8-based object detection
